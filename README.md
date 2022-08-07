@@ -2,7 +2,7 @@
 
 I'm João Nicoli
 
-- 🔭 I’m currently working on Spring Boot and VueJs projects
+- 🔭 I’m currently working on Spring Microservices projects using Kafka, WebFlux and ElasticSearch.
 - 🌱 I’m currently learning Blockchain
 
 <div align="center">
