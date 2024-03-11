@@ -2,8 +2,8 @@
 
 I'm João Nicoli
 
-- 🔭 I’m currently working on Spring Microservices projects using Kafka, WebFlux and ElasticSearch.
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on Spring Microservices projects.
+- 🌱 I’m currently learning DevOPs
 
 <div align="center">
   <a href="https://github.com/Joaonic">
